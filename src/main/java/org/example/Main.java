@@ -5,7 +5,7 @@ public class Main {
 
         System.out.println("Hello world!");
 
-        System.out.println("우린 할 수 있다!");
+        System.out.println("두 번째 커밋!!");
         
     }
 }
